@@ -10,8 +10,6 @@ Create a tool to better understand and predict rainfall patterns using satellite
 ## Problem Statement
 Farmers and water managers need timely and accurate predictions of rainfall to make informed decisions regarding irrigation, crop planning, and water resource management. This project aims to provide a reliable predictive model combined with real-time satellite data and interactive features to assist in these tasks.
 
-# https://github.com/AdityaJ9801/Ai_Chatbot_CPGRAM/assets/124603391/8f7494d3-7dd8-4d42-b762-54a37f08c2df
-
 ## Flowchart
 ![WhatsApp Image 2024-10-26 at 2 23 03 PM](https://github.com/user-attachments/assets/d818b55f-a77c-4545-93cc-423efd69ca0c)
 
@@ -21,8 +19,8 @@ To get started, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AdityaJ9801/Ai_Chatbot_CPGRAM.git
-    cd Ai_Chatbot_CPGRAM
+    git clone https://github.com/AdityaJ9801/SkyPredict.git
+    cd SkyPredict
     ```
 2. Create a virtual environment (recommended):
     ```bash
