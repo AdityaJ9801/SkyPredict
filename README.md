@@ -86,16 +86,6 @@ The web application was built using **Streamlit** and integrates three core comp
   - Open Meteo API integration
   - Gemini API integration
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/satellite-rainfall-agriculture.git
-
-## References
-1. [Langchain Documentation - Getting Started](https://python.langchain.com/docs/get_started/introduction)
-2. [Langchain Documentation - Vector Stores with FAISS](https://python.langchain.com/docs/integrations/vectorstores/faiss)
-3. [Mistral-7B-Instruct Model Paper](https://mistral.ai/assets/Mistral_7B_paper_v_0_1.pdf)
-4. [Anaconda Blog - How to Build a Retrieval-Augmented Generation Chatbot](https://www.anaconda.com/blog/how-to-build-a-retrieval-augmented-generation-chatbot)
 
 
 
