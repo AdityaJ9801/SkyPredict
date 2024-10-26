@@ -13,7 +13,7 @@ Farmers and water managers need timely and accurate predictions of rainfall to m
 ## Flowchart
 ![WhatsApp Image 2024-10-26 at 2 23 03 PM](https://github.com/user-attachments/assets/d818b55f-a77c-4545-93cc-423efd69ca0c)
 
-## Installation
+## Setup & Installation
 
 To get started, follow these steps:
 
@@ -35,7 +35,13 @@ To get started, follow these steps:
     ```bash
     streamlit run app.py
     ```
-
+### Prerequisites
+- Python 3.7+
+- Required Libraries: 
+  - Streamlit
+  - XGBoost
+  - Open Meteo API integration
+  - Gemini API integration
 ## Solution Overview
 We developed a web application that predicts rainfall patterns and provides real-time weather updates using satellite data. The application is designed to assist farmers and stakeholders in agricultural planning and water management.
 
@@ -76,15 +82,9 @@ The web application was built using **Streamlit** and integrates three core comp
 - **Map Visualization**: Displays current weather data on a map using longitude and latitude.
 - **Graphical Trends**: Offers data visualizations to show weather patterns over time.
 
-## Setup & Installation
 
-### Prerequisites
-- Python 3.7+
-- Required Libraries: 
-  - Streamlit
-  - XGBoost
-  - Open Meteo API integration
-  - Gemini API integration
+
+
 
 
 
