@@ -41,7 +41,7 @@ To get started, follow these steps:
   - Streamlit
   - XGBoost
   - Open Meteo API integration
-  - Gemini API integration
+  - Gemini API integration (https://ai.google.dev/gemini-api/docs)
 ## Solution Overview
 We developed a web application that predicts rainfall patterns and provides real-time weather updates using satellite data. The application is designed to assist farmers and stakeholders in agricultural planning and water management.
 
